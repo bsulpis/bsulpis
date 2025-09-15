@@ -9,6 +9,7 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
 *(Published on Medium)*  
 
 ### [Can Social Media Predict Elections?](https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc)
+[![Can Social Media Predict Elections?]([https://miro.medium.com/v2/resize:fit:720/format:webp/1*XTxJKcG5yyGzbgka3oQC4Q.jpeg)](https://medium.com/@yourusername/your-article-slug)
 An analysis of social media activity in the days before elections.  
 - Collected and processed Twitter data  
 - Applied sentiment metrics to detect trends  
