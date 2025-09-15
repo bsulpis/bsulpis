@@ -2,19 +2,35 @@
 
 I’m a **Data Engineer** and **Data Scientist** with experience across a wide range of projects, from building data pipelines to developing analytical models. I’m deeply passionate about working with data, and what drives me most is the opportunity to continuously learn new tools, techniques, and methodologies to grow and deliver better solutions.
 
-## 📜 Certifications
-- 🗄️ **SQL Advanced Certification** – [View Hackerrank Advanced Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
+##  Medium Projects
 
-##  Projects
-*(Published on Medium)*  
+### Can Social Media Predict Elections?
 
-### [Can Social Media Predict Elections?](https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc)
-[![Can Social Media Predict Elections?]([https://miro.medium.com/v2/resize:fit:720/format:webp/1*XTxJKcG5yyGzbgka3oQC4Q.jpeg)](https://medium.com/@yourusername/your-article-slug)
-An analysis of social media activity in the days before elections.  
-- Collected and processed Twitter data  
-- Applied sentiment metrics to detect trends  
-- Insights suggest a strong correlation between online sentiment and electoral outcomes  
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XTxJKcG5yyGzbgka3oQC4Q.jpeg" 
+             alt="Can Social Media Predict Elections?" 
+             width="300" style="max-width:100%; height:auto;">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc">
+        <strong>Can Social Media Predict Elections?</strong>
+      </a>
+      <p>An analysis of social media activity in the days before elections.</p>
+      <ul>
+        <li>Collected and processed Twitter data</li>
+        <li>Applied sentiment metrics to detect trends</li>
+        <li>Insights suggest a strong correlation between online sentiment and electoral outcomes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+## Certifications
+-  **SQL Advanced Certification** – [View Hackerrank Advanced Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
 
 ## Courses
 **Python**
