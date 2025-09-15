@@ -5,7 +5,7 @@ I’m passionate about working with data, and what I enjoy the most is learning 
 
 ## 📜 Certifications
 - 🐍 **Python Certification** – [View Hackerrank Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
-- 🗄️ **SQL Certification** – [View Hackerrank Certificate](https://www.linkedin.com/posts/barbarasulpis_data-analysis-in-sql-postgresql-activity-6793557038673793024-MgJ7)
+- 🗄️ **SQL Advanced Certification** – [View Hackerrank Advanced Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
 
 ##  Projects
 ### [Can Social Media Predict Elections?](https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc)
