@@ -1,7 +1,6 @@
 # Bárbara Sulpis
 
-I’m a **Data Engineer** and **Data Scientist** with experience in diverse projects, from data pipelines to analytical modeling.  
-I’m passionate about working with data, and what I enjoy the most is learning new tools, techniques, and methodologies to keep growing and improving.
+I’m a **Data Engineer** and **Data Scientist** with experience across a wide range of projects, from building data pipelines to developing analytical models. I’m deeply passionate about working with data, and what drives me most is the opportunity to continuously learn new tools, techniques, and methodologies to grow and deliver better solutions.
 
 ## 📜 Certifications
 - 🗄️ **SQL Advanced Certification** – [View Hackerrank Advanced Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
