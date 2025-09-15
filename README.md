@@ -4,7 +4,7 @@ I’m a **Data Engineer** and **Data Scientist** with experience in diverse proj
 I’m passionate about working with data, and what I enjoy the most is learning new tools, techniques, and methodologies to keep growing and improving.
 
 ## 📜 Certifications
-- 🐍 **Python Certification** – [View Hackerrank Certificate](https://www.linkedin.com/feed/update/urn:li:activity:6797298651313057792/)
+- 🐍 **Python Certification** – [View Hackerrank Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
 - 🗄️ **SQL Certification** – [View Hackerrank Certificate](https://www.linkedin.com/posts/barbarasulpis_data-analysis-in-sql-postgresql-activity-6793557038673793024-MgJ7)
 
 ##  Projects
