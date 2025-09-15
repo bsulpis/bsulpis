@@ -61,6 +61,7 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
 **Python**
 - **Object-Oriented Programming in Python** [View DataCamp Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/85418fd30cf252cd0116c31eaa119d4cac99781f)
 - **Joining Data with pandas** [View DataCamp Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/03f58cd72563ba85634405172eaa03a72bcea91c)
+- **Introduction to Statistics in Python**[View DataCamp Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/61e9a93f153d010c13b5061c2839c941feff00e5)
   
 **Data Science**
 - **Extreme Gradient Boosting with XGBoost** [View DataCamp Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/aa6d4e8879b6f755fdf87dc0222df1e1e213e58e)
