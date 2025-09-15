@@ -1,12 +1,13 @@
-# 👩‍💻 Bárbara Sulpis
+# Bárbara Sulpis
 
-Hi! I’m a Data Engineer and Data Science enthusiast. I love working with data and building solutions that transform information into insights.  
+I’m a **Data Engineer** and **Data Scientist** with experience in diverse projects, from data pipelines to analytical modeling.  
+I’m passionate about working with data, and what I enjoy the most is learning new tools, techniques, and methodologies to keep growing and improving.
 
 ## 📜 Certifications
-- 🐍 **Python Certification** – [View Certificate](link_to_your_certificate)
-- 🗄️ **SQL Certification** – [View Certificate](link_to_your_certificate)
+- 🐍 **Python Certification** – [View Hackerrank Certificate](https://www.linkedin.com/feed/update/urn:li:activity:6797298651313057792/)
+- 🗄️ **SQL Certification** – [View Hackerrank Certificate](https://www.linkedin.com/posts/barbarasulpis_data-analysis-in-sql-postgresql-activity-6793557038673793024-MgJ7)
 
-## 🚀 Projects
+##  Projects
 ### [Can Social Media Predict Elections?](https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc)
 An analysis of social media activity in the days before elections.  
 - Collected and processed Twitter data  
@@ -15,7 +16,7 @@ An analysis of social media activity in the days before elections.
 
 *(Published on Medium)*  
 
-## 📫 Connect with me
-- [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+##  Connect with me
+- [LinkedIn](https://www.linkedin.com/in/barbarasulpis/)
 - [Medium](https://medium.com/@barbarasulpis)
-- [GitHub](https://github.com/bsulpis)
+- [Kaggle](https://www.kaggle.com/brbarasulpis)
