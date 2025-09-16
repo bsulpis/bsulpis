@@ -2,7 +2,7 @@
 
 I’m a **Data Engineer** and **Data Scientist** with experience across a wide range of projects, from building data pipelines to developing analytical models. I’m deeply passionate about working with data, and what drives me most is the opportunity to continuously learn new tools, techniques, and methodologies to grow and deliver better solutions.
 <br><br>
-##  Medium Projects
+##  Medium Articles
 
 ### Can Social Media Predict Elections?
 
