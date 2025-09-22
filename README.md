@@ -76,6 +76,7 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
 
 ## Certifications
 -  **SQL Advanced Certification** – [View Hackerrank Advanced Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
+-  **English Certification B2 level: 60/100** - [EF Test](https://cert.efset.org/en/dpthUX)
 <br><br>
 
 ##  Connect with me
