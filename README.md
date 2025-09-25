@@ -74,6 +74,9 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
 - **Big Data Fundamentals with PySpark** [View DataCamp Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/802cf4adda0862777391c56cd223d349385285d3)
 <br><br>
 
+**Testing**
+- **Introduction to Testing in Python**[View DataCamp Certification](https://www.datacamp.com/completed/statement-of-accomplishment/course/c93aaeab40647d321f379e4ae44da1f75987a590)
+
 ## Certifications
 -  **SQL Advanced Certification** – [View Hackerrank Advanced Certificate](https://www.hackerrank.com/certificates/6b2ce5832313)
 -  **English Certification C1: Reading & Listening, B2:Writing & Speaking** - [View EF Test](https://cert.efset.org/en/dpthUX)
