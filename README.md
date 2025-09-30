@@ -32,6 +32,32 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
 
 ## Kaggle Projects
 
+### Can social media predict elections? Part 2
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <a href="https://www.kaggle.com/code/brbarasulpis/can-social-media-predict-elections-part-2">
+        <img src="https://www.kaggle.com/static/images/site-logo.svg" 
+             alt="Can social media predict elections? Part2" 
+             width="200" style="max-width:100%; height:auto;">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://www.kaggle.com/code/brbarasulpis/can-social-media-predict-elections-part-2">
+        <strong>Can social media predict elections? Part2</strong>
+      </a>
+      <p>Technical detail behind the main article</p>
+      <ul>        
+        <li>Sentiment analysis on Twitter data using the Hugging Face package </li>
+        <li>Calculation of NSS and confidence intervals.</li>
+        <li>Measure comparison with a Z-test to evaluate statistical significance.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br><br>
+
 ### TPS 2021 Oct - Simple LigtGBM Classif
 
 <table>
