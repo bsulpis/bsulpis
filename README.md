@@ -4,10 +4,9 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
 <br><br>
 ##  Medium Articles
 
-### Can Social Media Predict Elections?
-
 <table>
-  <tr>
+  <tr>  
+    <!-- tr: row, td is a new field -->
     <td width="40%" align="center">
       <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XTxJKcG5yyGzbgka3oQC4Q.jpeg" 
@@ -27,18 +26,37 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
       </ul>
     </td>
   </tr>
+  
+  <tr>  
+    <td width="40%" align="center">
+      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-part-2-c02863ceb27b">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*luL9KmthRgsvkzUZVaz5xA.png" 
+             alt="Can Social Media Predict Elections? Part 2" 
+             width="300" style="max-width:100%; height:auto;">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-part-2-c02863ceb27b">
+        <strong>Can Social Media Predict Elections? Part 2</strong>
+      </a>
+      <p>Technical details behind the main article: analysis of social media activity in the days before elections.</p>
+      <ul>
+        <li>Sentiment analysis on Twitter data using the Hugging Face package </li>
+        <li>Calculation of NSS and confidence intervals.</li>
+        <li>Measure comparison with a Z-test to evaluate statistical significance.</li>        
+      </ul>
+    </td>
+  </tr>
 </table>
 <br><br>
 
 ## Kaggle Projects
 
-### Can social media predict elections? Part 2
-
 <table>
   <tr>
     <td width="40%" align="center">
       <a href="https://www.kaggle.com/code/brbarasulpis/can-social-media-predict-elections-part-2">
-        <img src="https://www.kaggle.com/static/images/site-logo.svg" 
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*luL9KmthRgsvkzUZVaz5xA.png" 
              alt="Can social media predict elections? Part2" 
              width="200" style="max-width:100%; height:auto;">
       </a>
@@ -55,12 +73,6 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
       </ul>
     </td>
   </tr>
-</table>
-<br><br>
-
-### TPS 2021 Oct - Simple LigtGBM Classif
-
-<table>
   <tr>
     <td width="40%" align="center">
       <a href="https://www.kaggle.com/code/brbarasulpis/tps-2021-oct-ligtgbm-classif-begginers">
@@ -81,6 +93,8 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
     </td>
   </tr>
 </table>
+<br><br>
+
 <br><br>
 
 ## Courses
