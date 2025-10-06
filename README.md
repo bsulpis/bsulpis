@@ -47,12 +47,51 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
       </ul>
     </td>
   </tr>
-</table>
+
+  <tr>  
+    <td width="40%" align="center">
+      <a href="https://medium.com/@barbarasulpis/are-ai-chatbots-the-future-of-recruitment-36807d1da1d0">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ndqe1-vWBISFOqV3LaIdxw.png" 
+             alt="Are AI Chatbots the Future of Recruitment?" 
+             width="300" style="max-width:100%; height:auto;">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://medium.com/@barbarasulpis/are-ai-chatbots-the-future-of-recruitment-36807d1da1d0">
+        <strong>Are AI Chatbots the Future of Recruitment?</strong>
+      </a>
+      <p>My Experiment Building a Candidate Bot.</p>
+      <ul>
+        This is a reflection based on my recent experience looking for a new job, combined with a chatbot I built using my own candidate profile. The chatbot is designed to simulate first-round interviews and could help filter real job opportunities more efficiently.
+      </ul>
+    </td>
+  </tr></table>
 <br><br>
 
 ## Kaggle Projects
 
 <table>
+  <tr>
+    <td width="40%" align="center">
+      <a href="https://www.kaggle.com/code/brbarasulpis/rag-chatbot-of-me-chromadb-gemini">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*AQSuSo6oV5Wc2g53dt2cQw.png" 
+             alt="RAG Chatbot of Me: ChromaDB + gemini" 
+             width="200" style="max-width:100%; height:auto;">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://www.kaggle.com/code/brbarasulpis/rag-chatbot-of-me-chromadb-gemini">
+        <strong>RAG Chatbot of Me: ChromaDB + gemini</strong>
+      </a>
+      <p>Step by Step for the creation of a RAG ChatBot</p>
+      <ul>
+        <li>Explanation of RAG architecture for LLM</li>
+        <li>Creation of a ChromaDB vector database</li>
+        <li>How to prepare the files to be ingested to the vector database</li>
+        <li>ChatBot assistant usage</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="40%" align="center">
       <a href="https://www.kaggle.com/code/brbarasulpis/can-social-media-predict-elections-part-2">
@@ -94,6 +133,8 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
   </tr>
 </table>
 <br><br>
+
+
 
 <br><br>
 
