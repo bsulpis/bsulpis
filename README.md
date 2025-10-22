@@ -80,7 +80,30 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
       </a>
        ) 
     </td>
-  </tr></table>
+  </tr>
+  <tr>  
+    <!-- tr: row, td is a new field -->
+    <td width="40%" align="center">
+      <a  href="https://barbarasulpis.hashnode.dev/nps-and-statistics-made-simple-population-sampling-and-confidence-intervals-explained">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1761141363369/3ea40ce3-306b-489a-bef8-4c9c66b4c900.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" 
+             alt="NPS & Statistics Made Simple: Population, Sampling, and Confidence Intervals Explained" 
+             width="300" style="max-width:100%; height:auto;">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <a  href="https://barbarasulpis.hashnode.dev/nps-and-statistics-made-simple-population-sampling-and-confidence-intervals-explained">
+        <strong>NPS & Statistics Made Simple: Population, Sampling, and Confidence Intervals Explained</strong>
+      </a> 
+      <p>Explanation, with clear examples:.</p>
+      <ul>
+        <li>What Population and Sampling mean</li>
+        <li>How Confidence Intervals work</li>
+        <li>How these concepts specifically relate to the NPS metric</li>
+      </ul>
+    </td>
+  </tr>
+  
+  </table>
 <br><br>
 
 ## Kaggle Projects
