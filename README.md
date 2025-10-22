@@ -2,68 +2,83 @@
 
 I’m a **Data Engineer** and **Data Scientist** with experience across a wide range of projects, from building data pipelines to developing analytical models. I’m deeply passionate about working with data, and what drives me most is the opportunity to continuously learn new tools, techniques, and methodologies to grow and deliver better solutions.
 <br><br>
-##  Medium Articles
+##  Hashnode & Medium Articles
 
 <table>
   <tr>  
     <!-- tr: row, td is a new field -->
     <td width="40%" align="center">
-      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc">
+      <a  href="https://barbarasulpis.hashnode.dev/can-social-media-predict-elections">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XTxJKcG5yyGzbgka3oQC4Q.jpeg" 
              alt="Can Social Media Predict Elections?" 
              width="300" style="max-width:100%; height:auto;">
       </a>
     </td>
     <td width="60%" valign="top">
-      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc">
+      <a  href="https://barbarasulpis.hashnode.dev/can-social-media-predict-elections">
         <strong>Can Social Media Predict Elections?</strong>
-      </a>
+      </a> 
       <p>An analysis of social media activity in the days before elections.</p>
       <ul>
         <li>Collected and processed Twitter data</li>
         <li>Applied sentiment metrics to detect trends</li>
         <li>Insights suggest a strong correlation between online sentiment and electoral outcomes</li>
       </ul>
+      ( Same on 
+      <a  href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-ea5fe221d0cc">
+        Medium
+      </a>
+       ) 
     </td>
   </tr>
   
   <tr>  
     <td width="40%" align="center">
-      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-part-2-c02863ceb27b">
+      <a href="https://barbarasulpis.hashnode.dev/can-social-media-predict-elections-part-2">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*luL9KmthRgsvkzUZVaz5xA.png" 
              alt="Can Social Media Predict Elections? Part 2" 
              width="300" style="max-width:100%; height:auto;">
       </a>
     </td>
     <td width="60%" valign="top">
-      <a href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-part-2-c02863ceb27b">
+      <a href="https://barbarasulpis.hashnode.dev/can-social-media-predict-elections-part-2">
         <strong>Can Social Media Predict Elections? Part 2</strong>
-      </a>
+      </a> </br>
       <p>Technical details behind the main article: analysis of social media activity in the days before elections.</p>
       <ul>
         <li>Sentiment analysis on Twitter data using the Hugging Face package </li>
         <li>Calculation of NSS and confidence intervals.</li>
         <li>Measure comparison with a Z-test to evaluate statistical significance.</li>        
       </ul>
+      ( Same on 
+      <a  href="https://medium.com/@barbarasulpis/can-social-media-predict-elections-part-2-c02863ceb27b">
+        Medium
+      </a>
+       )
     </td>
   </tr>
 
   <tr>  
     <td width="40%" align="center">
-      <a href="https://medium.com/@barbarasulpis/are-ai-chatbots-the-future-of-recruitment-36807d1da1d0">
+      <a href="https://barbarasulpis.hashnode.dev/are-ai-chatbots-the-future-of-recruitment">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ndqe1-vWBISFOqV3LaIdxw.png" 
              alt="Are AI Chatbots the Future of Recruitment?" 
              width="300" style="max-width:100%; height:auto;">
       </a>
     </td>
     <td width="60%" valign="top">
-      <a href="https://medium.com/@barbarasulpis/are-ai-chatbots-the-future-of-recruitment-36807d1da1d0">
+      <a href="https://barbarasulpis.hashnode.dev/are-ai-chatbots-the-future-of-recruitment">
         <strong>Are AI Chatbots the Future of Recruitment?</strong>
-      </a>
+      </a> </br>
       <p>My Experiment Building a Candidate Bot.</p>
       <ul>
         This is a reflection based on my recent experience looking for a new job, combined with a chatbot I built using my own candidate profile. The chatbot is designed to simulate first-round interviews and could help filter real job opportunities more efficiently.
       </ul>
+      ( Same on 
+      <a  href="https://medium.com/@barbarasulpis/are-ai-chatbots-the-future-of-recruitment-36807d1da1d0">
+        Medium
+      </a>
+       ) 
     </td>
   </tr></table>
 <br><br>
