@@ -87,14 +87,14 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
 
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <a href="https://www.kaggle.com/code/brbarasulpis/rag-chatbot-of-me-chromadb-gemini">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*AQSuSo6oV5Wc2g53dt2cQw.png" 
              alt="RAG Chatbot of Me: ChromaDB + gemini" 
              width="200" style="max-width:100%; height:auto;">
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
       <a href="https://www.kaggle.com/code/brbarasulpis/rag-chatbot-of-me-chromadb-gemini">
         <strong>RAG Chatbot of Me: ChromaDB + gemini</strong>
       </a>
@@ -108,14 +108,14 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
     </td>
   </tr>
   <tr>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <a href="https://www.kaggle.com/code/brbarasulpis/can-social-media-predict-elections-part-2">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*luL9KmthRgsvkzUZVaz5xA.png" 
              alt="Can social media predict elections? Part2" 
              width="200" style="max-width:100%; height:auto;">
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
       <a href="https://www.kaggle.com/code/brbarasulpis/can-social-media-predict-elections-part-2">
         <strong>Can social media predict elections? Part2</strong>
       </a>
@@ -128,14 +128,14 @@ I’m a **Data Engineer** and **Data Scientist** with experience across a wide r
     </td>
   </tr>
   <tr>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <a href="https://www.kaggle.com/code/brbarasulpis/tps-2021-oct-ligtgbm-classif-begginers">
         <img src="https://www.kaggle.com/static/images/site-logo.svg" 
              alt="TPS 2021 Oct - Simple LigtGBM Classif" 
              width="200" style="max-width:100%; height:auto;">
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
       <a href="https://www.kaggle.com/code/brbarasulpis/tps-2021-oct-ligtgbm-classif-begginers">
         <strong>TPS 2021 Oct - Simple LigtGBM Classif</strong>
       </a>
